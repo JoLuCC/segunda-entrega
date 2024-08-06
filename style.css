@@ -1,0 +1,101 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#header{
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(104, 75, 131);
+    color: white;
+}
+.divheader{
+    width: 600px;
+    height: 90px;
+    display: flex;
+    margin: 10px;
+}
+.estadosp{
+    margin: 10px;
+    margin-top: 20px;
+}
+#selectionuno{
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(175, 143, 204);
+}
+#divuno{
+    width: auto;
+    height: 400px;
+    margin-top: 50px;
+    align-content: center;
+    justify-content: center;
+    color:aliceblue;
+}
+#avataar{
+    width: 150px;
+    height: 150px;
+    margin-left: 70px;
+}
+#nombre{
+    font-size: 30px;
+}
+#hruno{
+    width: 180px;
+}
+#puno{
+    font-size: 20px;
+}
+
+#sectiondos{
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+#divdos{
+    width: auto;
+    height: 400px;
+    margin-top: 200px;
+    align-content: center;
+    justify-content: center;
+    color:aliceblue;
+    display: block;
+}
+#tituloporta{
+    text-align: center;
+}
+.imagendos{
+    width: 200px;
+    height: 200px;
+}
+.classdivimagenes{
+    display: flex;
+
+}
+.classdivtitulos{
+    display: flex;
+    
+}
+.titu2{
+    margin-left: 100px;
+}
+#sectiontres{
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(175, 143, 204);
+}
+#divtres{
+    width: auto;
+    height: 400px;
+    margin-top: 50px;
+    align-content: center;
+    justify-content: center;
+    color:aliceblue;
+}
