@@ -180,12 +180,12 @@ label{
     display: flex;
     align-content: space-between;
     font-size: 20px;
-    margin-left: 100px;
+    margin-left: 250px;
 }
 #datos1{
     display: flex;
     align-content: space-between;
-    margin-left: 150px;
+    margin-left: 300px;
 }
 .h3sectioncinco{
     margin: 50px 50px 0px;
