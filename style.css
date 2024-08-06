@@ -56,6 +56,7 @@ body{
     height: 600px;
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 #divdos{
     width: auto;
@@ -98,4 +99,127 @@ body{
     align-content: center;
     justify-content: center;
     color:aliceblue;
+}
+#titulosobremi{
+    text-align: center;
+    font-size: 30px;
+}
+#hrsobremi{
+    width: 150px;
+}
+#divparrafos{
+    display: flex;
+    width: 400px;
+    
+}
+.parrafostres{
+    margin: 20px;
+}
+#botondescargacv{
+    margin-left: 20px;
+    background-color: rgb(175, 143, 204);
+    width: 120px;
+    height: 50px;
+    color:aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+    margin-left: 125px;
+}
+#sectioncuatro{
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+#divcuatro{
+    width: auto;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-content: center;
+    justify-content: center;
+}
+#titulocontactame{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+#hrtitulocuatro{
+    margin-bottom: 50px;
+}
+label{
+    color: rgb(168, 166, 166);
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+#textarea{
+    width: auto;
+    height: 300;
+    margin: 20px 0px 20px;
+}
+#botonsend{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(175, 143, 204);
+    color:aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+}
+
+#sectioncinco{
+    background-color: rgb(84, 84, 114);
+    width: auto;
+    height: 200px;
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    flex-direction: column;
+   
+}
+#titulossectioncinco{
+    display: flex;
+    align-content: space-between;
+    font-size: 20px;
+    margin-left: 100px;
+}
+#datos1{
+    display: flex;
+    align-content: space-between;
+    margin-left: 150px;
+}
+.h3sectioncinco{
+    margin: 50px 50px 0px;
+}
+
+#divdatos1{
+    line-height: 10px;
+}
+#divimagenes1{
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 190px;
+}
+#divparrafos1{
+    line-height: 9px;
+    margin-left: 40px;
+}
+.parrafosdemi{
+    text-align: center;
+}
+#footer{
+    width: auto;
+    height: 80px;
+    background-color: rgb(47, 35, 58);
+    display: flex;
+    justify-content: center;
+}
+#divfooter{
+    width: auto;
+    height: 80px;
+    margin-top: 20px;
+}
+#registro{
+    width: 500px;
+    color:aliceblue;
+    text-align: center;
 }
